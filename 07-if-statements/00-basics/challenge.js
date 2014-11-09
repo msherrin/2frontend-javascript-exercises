@@ -32,3 +32,4 @@ module.exports.canIGet = function(item, money) {
   } else {
     return false;
   }
+}
